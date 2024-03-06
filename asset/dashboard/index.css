@@ -1,0 +1,28 @@
+/* CSS Document */
+
+.wrapper{
+	max-width: 20%;
+        min-width: 20%;
+	margin: auto;
+        margin-top: 10%;
+        padding: 10px;
+        border: solid 1px #000;
+}
+/*.btn-primary{
+	background-color:#9F9F9F;
+	color: black;
+	font-weight: bold;
+	text-align: center;
+}*/
+
+.logo{
+	text-align: center;
+        background-color: #007BFF;
+        font-weight: bold;
+        color: #fff;
+}
+
+.logo1 {
+    padding-top: 10px;
+    padding-left: 10px;
+}
